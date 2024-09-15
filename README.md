@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="images/icon.png" alt="Sandcode Icon" width="150" height="150">
+
 # Sandcode
 
 Sandcode is a web-based code execution environment that allows users to write and run code in multiple programming languages. It consists of a Next.js frontend and a Rust backend server.
-
-<img src="images/icon.png" alt="Sandcode Icon" width="150" height="150">
 
 </div>
 
