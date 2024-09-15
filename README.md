@@ -1,7 +1,8 @@
-
 # Sandcode
 
 Sandcode is a web-based code execution environment that allows users to write and run code in multiple programming languages. It consists of a Next.js frontend and a Rust backend server.
+
+![Sandcode Icon](images/icon.png)
 
 ## Project Structure
 
@@ -21,6 +22,12 @@ Sandcode is a web-based code execution environment that allows users to write an
 - Monaco Editor for enhanced code editing experience
 - Input support for interactive programs
 - Code download and copy functionality
+
+## Execution Flow
+
+Here's a visual representation of the execution flow in Sandcode:
+
+![Execution Flow](images/execution_flow.png)
 
 ## Getting Started
 
